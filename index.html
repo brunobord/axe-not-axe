@@ -9,15 +9,33 @@
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
 <style>
 @media (min-width: 768px) {
-  #content {
+  .container {
     max-width: 730px;
   }
+}
+.footer {
+	padding-top: 19px;
+	color: #777;
+	border-top: 1px solid #e5e5e5;
 }
 </style>
 </head>
 <body>
 
-<div id="content" class="container">
+<div class="container">
+	<div class="header">
+        <ul class="nav nav-pills pull-right">
+          <li><a href="?lang=en">English</a></li>
+          <li><a href="?lang=fr">Français</a></li>
+        </ul>
+    </div>
+
+	<div id="content"></div>
+
+	<div class="footer">
+		<p>This RPG is the work of <a href="http://jehaisleprintemps.net">Bruno Bord</a>.
+		<a href="https://github.com/brunobord/axe-not-axe">Fork it away</a>, it's Public Domain.</p>
+	</div>
 </div>
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
