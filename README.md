@@ -8,6 +8,8 @@ And they all have an Axe. They use it to hit things or people.
 
 For everything else, they don't use their Axe.
 
+Note: this game is available in both [French](hache-pas-hache.md) and [English](axe-not-axe.md)
+
 ## Inspirations
 
 * Lasers & Feelings, by John Harper (just one score, if you're good at
