@@ -69,6 +69,8 @@ Choisis deux avantages parmi :
 
 ## Actions de base
 
+Pour toutes les actions, on lance deux dés à six faces (2d6).
+
 ### Je frappe avec ma Hache
 
 Fais un ``jet+Hache``. sur 6- : tu échoues et le MdJ choisit deux conséquences,

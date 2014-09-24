@@ -62,6 +62,8 @@ Pick two:
 
 ## Basic Moves
 
+For every move, you roll two six-sided dice (2d6)
+
 ### You hit with your Axe
 
 You ``roll+Axe``. on 6-: you miss and the GM picks two, on 7-9: you hit, but you
