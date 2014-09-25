@@ -5,6 +5,7 @@
 * Introduction text,
 * Hit points explained,
 * Healing explained,
+* Explaining that Nemesis bonus can be for ``Axe`` and ``Not Axe`` Moves.
 * Added an axe image as background for the HTML page,
 
 ## v1.0.0 (2014-09-25)

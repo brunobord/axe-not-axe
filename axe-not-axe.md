@@ -64,8 +64,14 @@ damages:
 Chose your Nemesis: a specific type of ennemy that you're more motivated to
 destroy.
 
-Pick one type of ennemy you'll get a +1 ``Axe`` bonus with and another with a +1
-Damage (might be cumulative).
+Pick one type of ennemy you'll get a +1 bonus with **for any action** when you
+oppose to this type of ennemy. It can be during a Fight with ``Axe`` Moves, but
+it could be a ``Not Axe`` Move, as long as it goes against the designated
+Nemesis.
+
+Pick another you'll get a +1 Damage bonus.
+
+These advantages can be cumulative.
 
 Here are a few suggestions: Elves, Trolls, Orcs, Goblins, Elves, Kobolds,
 Dragons, Elves, Werewolves, Skeletons, Humans, Halflings... or Elves?

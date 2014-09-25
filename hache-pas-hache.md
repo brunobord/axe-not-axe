@@ -68,9 +68,14 @@ des dommages moindres :
 
 Choisis ta Nemesis : un type d'ennemi que tu as spécialement envie de détruire.
 
-Choisis un type d'ennemi pour lequel tu auras un bonus de +1 pour les actions
-``Hache`` et un autre avec lequel tu auras un bonus +1 aux dommages infligés
-(peut être cumulatif).
+Choisis un type d'ennemi pour lequel tu auras un bonus de +1 pour **toutes les
+actions** qui vont à l'encontre de cet ennemi. Ce sont évidemment surtout pour
+les actions de type ``Hache``, mais ce sont aussi les actions ``Pas Hache`` qui
+peuvent recevoir un bonus, du moment qu'elles s'opposent à cette sorte d'ennemi.
+
+Choisis un type d'ennemi pour lequel tu infligeras +1 dommage.
+
+Ces deux avantages peuvent être cumulatifs.
 
 Quelques suggestions : Elfes, Trolls, Orcs, Gobelins, Elfes, Kobolds, Dragons,
 Elfes, Loups-garou, Squelette, Humains, Semi-hommes... ou Elfes par exemple ?
