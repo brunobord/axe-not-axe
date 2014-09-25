@@ -44,7 +44,25 @@ en CA, mais donne un malus de -1 pour toutes les attaques.
 
 ### Autres scores
 
-Tes points de vie sont égaux à ``10+Hache``. Ta hache fait d10 dommages.
+#### Points de vie
+
+Au début du jeu tes points de vie (PV) sont égaux à ``10+Hache``. C'est ton
+score maximal, tu ne pourras jamais le dépasser. C'est le nombre maximal de PV
+que tu peux encaisser avant de mourir.
+
+Consulte la section *Actions spéciales* pour savoir comment se soigner.
+
+#### Dommages des armes
+
+Ta hache fait d10 dommages. Ajoute éventuellement un bonus si tu combats ta
+Nemesis ou si ta Hache a un bonus.
+
+Si tu essaies de toucher avec une autre arme, et si tu y arrives, tu infligeras
+des dommages moindres :
+
+* Mains nues : d4,
+* Dague, Poignard, Épée courte, Arc : d6,
+* Épée longue, Marteau, Lance, Arbalète : d8,
 
 ### Ennemis
 

@@ -6,7 +6,6 @@
 like hoarding treasures, looting dungeons, fighting a lot of ennemies of various
 types and sizes, drink beers, sing songs (loudly).
 
-
 ## Character Creation
 
 Each Player Character (PC) is a Dwarf. Give him (or her) a Dwarf name, and
@@ -40,7 +39,25 @@ you have a -1 malus to any of your attacks.
 
 ### Other scores
 
-Your HP is ``10+Axe``. Your axe is d10 damage.
+#### Hit points
+
+At the beginning of the game, your Hit Points score is ``10+Axe``. It'll never
+be above this level. That's the maximum number of hits you can receive before
+dying.
+
+See the *Extra moves* section when you need to heal.
+
+#### Weapon damage
+
+Your Axe inflicts d10 damage. Eventually add damages if fighting your Nemesis
+or if your Axe is providing a bonus.
+
+If you try to hit with another weapon, and you succeed, you will inflict less
+damages:
+
+* Bare hands: d4,
+* Dagger, Knife, Short sword, Bow: d6,
+* Long sword, Hammer, Spear, Crossbow: d8,
 
 ### Ennemies
 
