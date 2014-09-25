@@ -1,5 +1,12 @@
 # Axe / Not Axe
 
+## What is it?
+
+*Axe / Not Axe* is a role-playing game about Dwarves. They'll do Dwarf stuff,
+like hoarding treasures, looting dungeons, fighting a lot of ennemies of various
+types and sizes, drink beers, sing songs (loudly).
+
+
 ## Character Creation
 
 Each Player Character (PC) is a Dwarf. Give him (or her) a Dwarf name, and

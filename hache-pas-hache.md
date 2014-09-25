@@ -1,5 +1,12 @@
 # Hache / Pas Hache
 
+## Introduction
+
+*Hache / Pas Hache* est un jeu de rôle qui parle de Nains. Tous les personnages
+des joueurs sont des Nains. Ils feront des "trucs de Nain", comme amasser des
+trésors, explorer des donjons, combattre des ennemis de toutes sortes et de
+toutes tailles, boire de la bière et chanter (fort) des paillardises.
+
 ## Création des personnages
 
 Tous les personnages (PJ) sont des Nains.
