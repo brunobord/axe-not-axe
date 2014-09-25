@@ -137,6 +137,27 @@ Le seul moyen de ne pas avoir de malus est d'avoir un score de +0 à ``Hache``,
 mais ça ne présente pas un grand avantage. Ça signifie que tu auras un
 score de +0/-0 pour **Toutes** tes actions. C'est toi qui vois.
 
+## Actions spéciales
+
+### Se soigner
+
+After une aventure, quand on t'en laisse le temps, tu peux essayer de soigner
+tes blessures.
+
+Pour se régénérer, les Nains boivent de la bière. Chaque fois que tu bois une
+bière, tu lances 2d6. Si ces dés sont inférieurs ou égaux à ton niveau de PV
+actuel, tu gagnes 1 PV. S'il est inférieur, choisis une des conséquences
+suivantes :
+
+* Tu gagnes encore un PV, mais immédiatement après, t'évanouis. Tout le monde
+  se moque de toi, tu as la honte.
+* Tu ne gagnes pas de PV supplémentaire. Tu peux encore essayer une dernière
+  fois de plus, mais si tu échoues encore une seule fois, tu tomberas évanoui,
+  sans gagner de PV supplémentaire.
+
+Mais encore, pour récupérer tes PV, tu peux attendre un peu plus au rythme d'1PV/semaine
+de repos absolu.
+
 ----
 
 ## Exemples d'ennemis

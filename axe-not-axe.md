@@ -124,6 +124,23 @@ you've set a -2 Axe score, you'll **still** have a -2 malus.
 The "only" way out is to set a +0 ``Axe`` score. But you'll not get a big
 advantage. You'll **still** be at +0/-0 for all of your Moves. Your choice.
 
+## Extra Moves
+
+### Heal
+
+After the adventure, when you have time, you can try to heal from your wounds.
+
+To regenerate, Dwarves drink beer(s). Each time you drink a beer, you roll 2d6.
+If it's equal or above your current HP, you gain 1 HP. If it's below, you pick
+one of the following:
+
+* You gain one more HP, but right after it, you fall drunk dead. Everybody
+  laughs at you, you're shameful.
+* You fail to gain one HP, you can still try one more time, but if you fail
+  again, you fall drunk dead, without your extra HP.
+
+Otherwise, you could longer to regain your HPs, at the rate of 1HP/week.
+
 ----
 
 ## Example Ennemies
