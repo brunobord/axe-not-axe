@@ -67,8 +67,8 @@ destroy.
 Pick one type of ennemy you'll get a +1 ``Axe`` bonus with and another with a +1
 Damage (might be cumulative).
 
-Here are a few suggestions: Trolls, Orcs, Goblins, Kobolds, Dragons, Elves,
-Werewolves, Skeletons, Humans, Halflings...
+Here are a few suggestions: Elves, Trolls, Orcs, Goblins, Elves, Kobolds,
+Dragons, Elves, Werewolves, Skeletons, Humans, Halflings... or Elves?
 
 ### Equipment & Gear
 

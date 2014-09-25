@@ -72,8 +72,8 @@ Choisis un type d'ennemi pour lequel tu auras un bonus de +1 pour les actions
 ``Hache`` et un autre avec lequel tu auras un bonus +1 aux dommages infligés
 (peut être cumulatif).
 
-Quelques suggestions : Trolls, Orcs, Gobelins, Kobolds, Dragons, Elfes, Loups-
-garou, Squelette, Humains, Semi-hommes...
+Quelques suggestions : Elfes, Trolls, Orcs, Gobelins, Elfes, Kobolds, Dragons,
+Elfes, Loups-garou, Squelette, Humains, Semi-hommes... ou Elfes par exemple ?
 
 ### Équipement
 
