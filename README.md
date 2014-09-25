@@ -10,7 +10,9 @@ For everything else, they don't use their Axe.
 
 Note: this game is available in both [French](hache-pas-hache.md) and [English](axe-not-axe.md)
 
-## Inspirations
+## Colophon
+
+### Inspirations
 
 * Lasers & Feelings, by John Harper (just one score, if you're good at
   something, you're bad for the opposite),
@@ -19,6 +21,11 @@ Note: this game is available in both [French](hache-pas-hache.md) and [English](
   collection. Just Axe and Not Axe as scores. But the game mechanics didn't fit
   my needs, to I've tried to build around the concept of having Dwarf-only RPG.
 * [Dungeon world](http://www.dungeon-world.com/)
+
+### Media
+
+* [Axe drawing](http://commons.wikimedia.org/wiki/User:Axe_DB) coming from
+  Wikimedia Commons.
 
 ## Game License
 
