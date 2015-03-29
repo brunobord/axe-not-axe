@@ -195,8 +195,9 @@ n'a qu'une seule arme principale, et pour toute autre arme on utilise un score
 
 ## Inspirations
 
-* Lasers & Feelings, par John Harper (un score unique, si tu es bon à quelque
-  chose, tu es moins doué pour son opposé),
+* [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/), par John
+  Harper (un score unique, si tu es bon à quelque chose, tu es moins doué pour
+  son opposé),
 * "I hit it with my axe", par Brian Engard, inclus dans le recueil
   [Rough cuts](http://rpg.drivethrustuff.com/product/120165/Rough-Cuts-6-Micro-Games?filters=0_2810_0_0_0).
   Un jeu avec juste "Axe" et "Not Axe" comme compétences. Mais les mécaniques
