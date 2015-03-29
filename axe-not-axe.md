@@ -175,8 +175,9 @@ other weapon will have a **negative** score applied.
 
 ## Inspirations
 
-* Lasers & Feelings, by John Harper (just one score, if you're good at
-  something, you're bad for the opposite),
+* [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/), by John
+  Harper (just one score, if you're good at something, you're bad for the
+  opposite),
 * "I hit it with my axe", by Brian Engard, included in the
   [Rough cuts](http://rpg.drivethrustuff.com/product/120165/Rough-Cuts-6-Micro-Games?filters=0_2810_0_0_0)
   collection. Just Axe and Not Axe as scores. But the game mechanics didn't fit
