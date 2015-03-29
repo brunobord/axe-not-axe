@@ -18,7 +18,7 @@ Les-dents-noires, etc). Essaie de lui donner un semblant d'histoire personnelle
 ### Scores
 
 Les Nains n'ont qu'**un seul score** : ``Hache``. Il est utilisé quand il faut
-frapper quelqu'un / quelque chose avec sa hache.
+frapper quelqu'un / quelque chose avec sa *Hache*.
 
 Assigne-lui un score ; compris entre +2 et -2. Merci de garder en tête que pour
 **toutes les autres actions**, il faudra **soustraire** le score en ``Hache`` au
@@ -54,8 +54,8 @@ Consulte la section *Actions spéciales* pour savoir comment se soigner.
 
 #### Dommages des armes
 
-Ta hache fait d10 dommages. Ajoute éventuellement un bonus si tu combats ta
-Nemesis ou si ta Hache a un bonus.
+Ta *Hache* fait d10 dommages. Ajoute éventuellement un bonus si tu combats ta
+Nemesis ou si ta *Hache* a un bonus.
 
 Si tu essaies de toucher avec une autre arme, et si tu y arrives, tu infligeras
 des dommages moindres :
@@ -82,7 +82,7 @@ Elfes, Loups-garou, Squelette, Humains, Semi-hommes... ou Elfes par exemple ?
 
 ### Équipement
 
-Ta Hache, c'est toute ta vie. Tu n'imagines même pas vivre sans elle. Elle est
+Ta *Hache*, c'est toute ta vie. Tu n'imagines même pas vivre sans elle. Elle est
 spéciale.
 
 Choisis deux avantages parmi :
@@ -125,7 +125,8 @@ de décrire ce qui se passe.
 
 Je vois déjà d'ici des petits malins qui vont essayer de gruger le système :
 Assigner un score négatif à ``Hache`` pour obtenir un bonus à tous les autres
-jets de dés. Y compris pour combattre avec une arme qui ne serait pas ta Hache.
+jets de dés. Y compris pour combattre avec une arme qui ne serait pas ta
+*Hache*.
 
 Tsk. On ne peut pas tricher avec ce jeu. Les Nains ne trichent pas.
 
@@ -146,7 +147,7 @@ score de +0/-0 pour **Toutes** tes actions. C'est toi qui vois.
 
 ### Se soigner
 
-After une aventure, quand on t'en laisse le temps, tu peux essayer de soigner
+Après une aventure, quand on t'en laisse le temps, tu peux essayer de soigner
 tes blessures.
 
 Pour se régénérer, les Nains boivent de la bière. Chaque fois que tu bois une
@@ -155,19 +156,19 @@ actuel, tu gagnes 1 PV. S'il est inférieur, choisis une des conséquences
 suivantes :
 
 * Tu gagnes encore un PV, mais immédiatement après, t'évanouis. Tout le monde
-  se moque de toi, tu as la honte.
+  se moque de toi, c'est la **honte**.
 * Tu ne gagnes pas de PV supplémentaire. Tu peux encore essayer une dernière
   fois de plus, mais si tu échoues encore une seule fois, tu tomberas évanoui,
   sans gagner de PV supplémentaire.
 
-Mais encore, pour récupérer tes PV, tu peux attendre un peu plus au rythme d'1PV/semaine
-de repos absolu.
+Mais encore, pour récupérer tes PV, tu peux attendre un peu plus au rythme
+d'1PV/semaine de repos absolu.
 
 ----
 
 ## Exemples d'ennemis
 
-*Note :* Tu auras remarqué que ce jeu est compatible avec les monstres / les
+*Note :* Il faut souligner que ce jeu est compatible avec les monstres / les
 ennemis de Dungeon World et ses différents "hacks", juste parce que les points
 de vie et les points de dommages correspondent.
 
@@ -183,8 +184,8 @@ de vie et les points de dommages correspondent.
 
 Certains joueurs auraient peut-être envie d'utiliser une autre arme principale.
 Ce peut être une *Masse*, une *Lance* ou un *Marteau*, par exemple. Même si d'un
-point de vue strictement orthodoxe ça peut ressembler à une hérésie, cela peut
-être accepté par le MdJ.
+point de vue strictement dogmatique ça peut ressembler à une hérésie, le MdJ
+peut l'accepter.
 
 Il suffira de remplacer le mot "Hache" par l'arme de votre choix. Mais
 souviens-toi : la Sainte Règle pour *frapper quelque chose ou quelqu'un avec une
