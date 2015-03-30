@@ -1,6 +1,8 @@
 # Changelog
 
-## v1.1.0 (unreleased)
+## v1.1.0
+
+released on: 2015-03-30
 
 * Introduction text,
 * Hit points explained,
@@ -9,7 +11,9 @@
 * Added an axe image as background for the HTML page,
 * Styles (fonts).
 
-## v1.0.0 (2014-09-25)
+## v1.0.0
+
+released on: 2014-09-25
 
 * Initial version. Character creation, Axe and Non-Axe moves covered. Armor
   class, Nemesis, Weapon special capacities,
