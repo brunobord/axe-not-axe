@@ -1,5 +1,9 @@
 # Changelog
 
+## master
+
+* Added character sheet (english).
+
 ## v1.1.0
 
 released on: 2015-03-30

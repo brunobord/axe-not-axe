@@ -1,0 +1,161 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Character Sheet</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" type="text/css">
+    <link href='//fonts.googleapis.com/css?family=Metamorphous|Vollkorn:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<style>
+th.cs-label {
+	width: 180px;
+	text-align: right;
+}
+.cs-helptext {
+	font-weight: normal !important;
+}
+.bordered {
+	border: 1px solid #555;
+}
+.writing-line {
+	border-bottom: 1px solid #555;
+}
+.cs-background {
+	height: 4em;
+	margin: .2em;
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Metamorphous', cursive;
+}
+.footer {
+    margin-top: 2em;
+    border-top: 1px solid #777;
+    padding-top: .3em;
+}
+</style>
+  </head>
+  <body>
+  	<div class="container">
+  		<div class="row">
+			<h1 class="text-center">Your Dwarf</h1>
+  		</div>
+		<hr>
+    	<div class="row">
+    		<div class="col-lg-4 col-xs-4">
+    			<h4 class="text-right">Full name</h4>
+			</div>
+			<div class="col-lg-8 col-xs-8"><h4 class="writing-line">&nbsp;</h4></div>
+		</div>
+    	<div class="row">
+    		<div class="col-lg-4 col-xs-4">
+    			<h4 class="text-right">Background</h4>
+    			<p class="text-right text-muted">family, origin, occupation, motivations, etc.</p>
+			</div>
+			<div class="col-lg-8 col-xs-8">
+                <p class="writing-line">&nbsp;</p>
+                <p class="writing-line">&nbsp;</p>
+                <p class="writing-line">&nbsp;</p>
+                <p class="writing-line">&nbsp;</p>
+			</div>
+		</div>
+        <div class="row">
+    		<div class="col-lg-3 col-xs-3">
+    			<h4 class="text-right">Nemesis #1</h4>
+                <p class="text-right text-muted small">+1 when attacking</p>
+			</div>
+			<div class="col-lg-3 col-xs-3"><h4 class="writing-line">&nbsp;</h4></div>
+    		<div class="col-lg-3 col-xs-3">
+    			<h4 class="text-right">Nemesis #2</h4>
+                <p class="text-right text-muted small">+1 damage with</p>
+			</div>
+			<div class="col-lg-3 col-xs-3"><h4 class="writing-line">&nbsp;</h4></div>
+		</div>
+
+		<hr>
+
+		<div class="row">
+			<div class="col-lg-3 col-xs-3">
+				<h2 class="text-right">Axe</h2>
+				<p class="text-right"><small>When you hit with your Axe</small></p>
+			</div>
+			<div class="col-lg-3 col-xs-3">
+				<div class="well">
+				  &nbsp;
+				</div>
+			</div>
+			<div class="col-lg-3 col-xs-3">
+				<h2 class="text-right">Not Axe</h2>
+				<p class="text-right"><small>For everything else</small></p>
+			</div>
+			<div class="col-lg-3 col-xs-3">
+				<div class="well well-large">
+				  &nbsp;
+				</div>
+			</div>
+		</div>
+
+        <div class="row">
+            <div class="col-lg-3 col-xs-3">
+                <h3 class="text-right">AC</h3>
+            </div>
+            <div class="col-lg-3 col-xs-3">
+                <div class="well">
+				  &nbsp;
+				</div>
+            </div>
+            <div class="col-lg-3 col-xs-3">
+                <h3 class="text-right">HP</h3>
+            </div>
+            <div class="col-lg-3 col-xs-3">
+                <div class="well">
+				  &nbsp;
+				</div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row">
+            <div class="col-lg-7 col-xs-7">
+                <h3>Your Axe is</h3>
+                <p class="text-muted text-left">(pick two)</p>
+                <ul class=list-unstyled>
+                    <li><input type="checkbox"> <strong>Sharp:</strong> +1 damages
+                    <li><input type="checkbox"> <strong>Light:</strong> Gives +1 to your <em>Axe</em> or <em>Not Axe</em> move that imply AC malus
+                    <li><input type="checkbox"> <strong>Famous:</strong> Gives +1 bonus when trying to influence other Dwarves who know you're holding it
+                    <li><input type="checkbox"> <strong>Slayer:</strong> +2 damages when hitting your Nemesis
+                    <li><input type="checkbox"> <strong>Enchanted:</strong> Glows when your Nemesis is approaching
+                    <li><input type="checkbox"> <strong>Flying:</strong> Once per fight scene, you can perform a double attack on two ennemies simultaneously
+                </ul>
+            </div>
+
+            <div class="col-lg-5 col-xs-5">
+                <h3>Other Equipment</h3>
+                <p class="writing-line">&nbsp;</p>
+                <p class="writing-line">&nbsp;</p>
+                <p class="writing-line">&nbsp;</p>
+                <p class="writing-line">&nbsp;</p>
+                <p class="writing-line">&nbsp;</p>
+                <p class="writing-line">&nbsp;</p>
+                <p class="writing-line">&nbsp;</p>
+                <p class="writing-line">&nbsp;</p>
+            </div>
+
+        </div>
+
+    <div class="footer">
+        <p class="text-right">Character sheet for <strong>Axe / Not Axe</strong>, a RPG by Bruno Bord. Public Domain.</p>
+    </div>
+
+  	</div>
+
+
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/2.3.2/js/bootstrap.min.js"></script>
+  </body>
+</html>
