@@ -1,6 +1,6 @@
 # Changelog
 
-## master
+## v1.2.0
 
 * Added character sheet (english and french).
 * Upgraded to Bootstrap v3.3.7 (#4).
