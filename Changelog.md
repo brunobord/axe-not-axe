@@ -5,6 +5,7 @@
 * Added character sheet (english and french).
 * Upgraded to Bootstrap v3.3.7 (#4).
 * Upgraded to jQuery v3.1.1 (#6).
+* Wording: French "dommages" is ugly, changed to "dégâts" (#5).
 
 ## v1.1.0
 

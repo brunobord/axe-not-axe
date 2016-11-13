@@ -52,13 +52,13 @@ que tu peux encaisser avant de mourir.
 
 Consulte la section *Actions spéciales* pour savoir comment se soigner.
 
-#### Dommages des armes
+#### Dégâts des armes
 
-Ta *Hache* fait d10 dommages. Ajoute éventuellement un bonus si tu combats ta
+Ta *Hache* fait d10 dégâts. Ajoute éventuellement un bonus si tu combats ta
 Nemesis ou si ta *Hache* a un bonus.
 
 Si tu essaies de toucher avec une autre arme, et si tu y arrives, tu infligeras
-des dommages moindres :
+des dégâts moindres :
 
 * Mains nues : d4,
 * Dague, Poignard, Épée courte, Arc : d6,
@@ -73,7 +73,7 @@ actions** qui vont à l'encontre de cet ennemi. Ce sont évidemment surtout pour
 les actions de type ``Hache``, mais ce sont aussi les actions ``Pas Hache`` qui
 peuvent recevoir un bonus, du moment qu'elles s'opposent à cette sorte d'ennemi.
 
-Choisis un type d'ennemi pour lequel tu infligeras +1 dommage.
+Choisis un type d'ennemi pour lequel tu infligeras +1 dégât.
 
 Ces deux avantages peuvent être cumulatifs.
 
@@ -87,11 +87,11 @@ spéciale.
 
 Choisis deux avantages parmi :
 
-* Acérée : +1 dommages,
+* Acérée : +1 dégât,
 * Légère: Donne un bonus de +1 aux mouvements ``Hache`` ou ``Pas Hache`` qui auraient dû avoir un malus dû à la classe d'armure,
 * Célèbre : Donne un bonus de +1 quand tu veux influencer un autre Nain
   qui connaît l'histoire de ta hache,
-* Tueuse : +2 dommages quand elle frappe ta Nemesis,
+* Tueuse : +2 dégâts quand elle frappe ta Nemesis,
 * Enchantée : Brille quand ta Nemesis approche,
 * Virevoltante : Une fois par scène de combat, autorise à faire une double
   attaque (attaquer deux ennemis à la fois),
@@ -104,15 +104,15 @@ Pour toutes les actions, on lance deux dés à six faces (2d6).
 
 Fais un ``jet+Hache``. sur 6- : tu échoues et le MdJ choisit deux conséquences,
 sur 7-9 : tu touches, mais tu dois choisir une conséquence, sur 10+ : tu
-infliges les dommages appropriés.
+infliges les dégâts appropriés.
 
-* Tu encaisses des dommages,
+* Tu encaisses des dégâts,
 * Tu perds ton avantage, tu ne peux pas attaquer au tour suivant,
 * Ta prochaine attaque est difficile : tu auras un malus de -2,
 * Ta prochaine attaque sera moins efficace, tu auras un malus de -4 aux
-  dommages infligés (s'il y a des dommages),
+  dégâts infligés (s'il y en a),
 * Tu es sur la défensive : applique un malus de -2 à ta prochaine attaque, mais
-  tu encaisseras -3 dommages si tu es touché.
+  tu encaisseras -3 dégâts si tu es touché.
 
 ### Tout le reste
 
@@ -169,7 +169,7 @@ d'1PV/semaine de repos absolu.
 
 *Note :* Il faut souligner que ce jeu est compatible avec les monstres / les
 ennemis de Dungeon World et ses différents "hacks", juste parce que les points
-de vie et les points de dommages correspondent.
+de vie et les points de dégâts correspondent.
 
 * [The Cave Kobold (Kobold des cavernes)](http://codex.dungeon-world.com/monster/603001)
 * [Orc Chief (Chef orc)](http://codex.dungeon-world.com/monster/6036769539620864)
