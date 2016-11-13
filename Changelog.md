@@ -1,5 +1,9 @@
 # Changelog
 
+## master
+
+* Upgrade to marked v0.3.6.
+
 ## v1.2.0
 
 * Added character sheet (english and french).
