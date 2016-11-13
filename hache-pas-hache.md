@@ -179,7 +179,8 @@ de vie et les points de dommages correspondent.
 
 ## Feuille de personnage
 
-[Utilise cette page HTML et imprime-la](personnage.html)
+* [Utilise cette page HTML et imprime-la](personnage.html)
+* [Ou utilise ce PDF](feuille-de-personnage.pdf)
 
 ----
 

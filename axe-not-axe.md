@@ -164,7 +164,8 @@ Dungeon World and hacks, just because Hit Points and Damage dice match with it.
 
 ## Character sheet
 
-[Open this web page and print it](character.html)
+* [Open this web page and print it](character.html)
+* [Or use this PDF](character-sheet.pdf)
 
 ----
 
