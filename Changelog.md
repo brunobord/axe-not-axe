@@ -3,6 +3,7 @@
 ## master
 
 * Added character sheet (english and french).
+* Upgraded to Bootstrap v3.3.7 (#4).
 
 ## v1.1.0
 
