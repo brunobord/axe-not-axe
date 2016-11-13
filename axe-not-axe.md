@@ -162,6 +162,13 @@ Dungeon World and hacks, just because Hit Points and Damage dice match with it.
 
 ----
 
+## Character sheet
+
+* [Open this web page and print it](character.html)
+* [Or use this PDF](character-sheet.pdf)
+
+----
+
 ## Hackish hacks
 
 Some players may want to use another main weapon. It might be a *Mace*, a
