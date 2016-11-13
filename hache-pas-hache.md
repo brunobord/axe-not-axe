@@ -88,8 +88,7 @@ spéciale.
 Choisis deux avantages parmi :
 
 * Acérée : +1 dommages,
-* Légère: Donne un bonus de +1 aux mouvements ``Hache`` ou ``Pas Hache`` qui
-  auraient dû avoir un malus dû à la classe d'armure,
+* Légère: Donne un bonus de +1 aux mouvements ``Hache`` ou ``Pas Hache`` qui auraient dû avoir un malus dû à la classe d'armure,
 * Célèbre : Donne un bonus de +1 quand tu veux influencer un autre Nain
   qui connaît l'histoire de ta hache,
 * Tueuse : +2 dommages quand elle frappe ta Nemesis,
@@ -177,6 +176,10 @@ de vie et les points de dommages correspondent.
 * [Troll](http://codex.dungeon-world.com/monster/5723151296102400)
 * [Troll](http://codex.dungeon-world.com/monster/5464836930535424)
 * [Cave Troll (Troll des cavernes)](http://codex.dungeon-world.com/monster/5653164804014080)
+
+## Feuille de personnage
+
+[Utilise cette page HTML et imprime-la](personnage.html)
 
 ----
 

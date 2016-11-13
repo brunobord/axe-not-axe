@@ -2,7 +2,7 @@
 
 ## master
 
-* Added character sheet (english).
+* Added character sheet (english and french).
 
 ## v1.1.0
 
